@@ -2,7 +2,7 @@
 
 ## Details
 
-Write an class to manage a basket with products catalog, offers and delivery cost.
+Write a class to manage a basket with products catalog, offers and delivery cost.
 
 ## Run Istruction
 
